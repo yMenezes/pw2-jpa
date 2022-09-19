@@ -9,8 +9,6 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
-//import org.hibernate.type.EnumType;
-
 import br.com.etechoracio.jpa.enums.StatusAgenteEnum;
 import br.com.etechoracio.jpa.enums.TipoAgenteEnum;
 import lombok.Getter;
